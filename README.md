@@ -1,4 +1,4 @@
-# Claude Code Proxy Server for OpenRouter
+# Proxy Server for Claude Code
 
 A Flask-based proxy server that enables Claude Code to work with OpenRouter models by transforming API requests between Anthropic's format and OpenRouter's OpenAI-compatible format. This solution resolves litellm API key issues and provides seamless integration between Claude Code and OpenRouter's diverse model ecosystem.
 
